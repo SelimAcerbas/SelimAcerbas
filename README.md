@@ -22,7 +22,7 @@ DevOps Engineer focused on building reliable, scalable systems and shipping AI/M
 ## 🤝 OSS Contributions
 
 - **[GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai)** – Contributions to the AI-assisted `kubectl` plugin.
-
+- **[google/adk-go](https://github.com/google/adk-go)** – Contributions to the Agentic AI Framework `adk-go`.
 ---
 
 ## 🔗 Say hi
