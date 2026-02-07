@@ -3,17 +3,16 @@
 DevOps Engineer focused on building reliable, scalable systems and shipping AI/ML-powered workflows.
 
 ## What I Do
-- **DevOps & Infrastructure**: Design and automate cloud-native environments across GCP, Azure, AWS, and on-prem using Terraform/OpenTofu, Helm, and ArgoCD—with security, observability, and maintainability baked in.
-- **CI/CD at Scale**: Build resilient pipelines for monorepos and microservices to reduce toil, cut costs, and speed up delivery.
-- **AI/ML in Production**: Apply LLM and ML frameworks (LangChain, Semantic Kernel, TensorFlow) to practical problems like RAG, recommendations, and intelligent CLIs (e.g., `kubectl-ai`).
-- **Languages & Frameworks**: Go, Python, TypeScript, Rust, C++, Lua, Flutter, **React**, **FastAPI**, Cobra, Viper—chosen pragmatically for the job.
+- **DevOps & Cloud Infrastructure** — Design and automate production-grade platforms across GCP, Azure, AWS, and on-prem. Terraform, Kubernetes, ArgoCD, service mesh, policy engines — the full stack from bare metal to GitOps.
+- **Full-Stack Agentic AI** — Build end-to-end AI applications that go beyond chat — autonomous agents, RAG pipelines, tool-calling workflows, and multi-agent systems using ADK, Semantic Kernel, LangChain, and MCP.
+- **Developer Tooling** — When the right tool doesn't exist, I build it. Neovim plugins in pure Lua, Go CLIs, macOS automation — anything that removes friction from the workflow.
 
 ---
 
 ## 🧰 Open Source Projects
 - **Neovim:**
-  - **[mermaid-playground.nvim](https://github.com/selimacerbas/mermaid-playground.nvim)** – Neovim plugin to preview and iterate on Mermaid diagrams from your editor.  
-  - **[live-server.nvim](https://github.com/selimacerbas/live-server.nvim)** – Lightweight live-reload dev server you can start directly from Neovim.  
+  - **[markdown-preview.nvim](https://github.com/selimacerbas/markdown-preview.nvim)** – Neovim plugin to preview and iterate on Mermaid diagrams from your editor.
+  - **[live-server.nvim](https://github.com/selimacerbas/live-server.nvim)** – Lightweight live-reload dev server you can start directly from Neovim.
 - **Hammerspoon spoons (macOS):**
   - **[CursorScope.spoon](https://github.com/selimacerbas/CursorScope.spoon)** – Visual cursor highlight/locator for presentations and demos.
   - **[FocusMode.spoon](https://github.com/selimacerbas/FocusMode.spoon)** – Toggle a distraction-free setup to stay in flow.
